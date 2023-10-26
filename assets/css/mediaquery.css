@@ -1,290 +1,318 @@
 /********** Media Query **********/
 @media screen and (min-width: 1200px) {
-    .foot-email {
-        padding-right: 30px !important;
-    }
+  .foot-email {
+    padding-right: 30px !important;
+  }
 }
 
 @media screen and (min-width: 1400px) {
-    .foot-email {
-        padding-right: 90px !important;
-    }
+  .foot-email {
+    padding-right: 90px !important;
+  }
 }
 
 @media screen and (max-width: 1199px) {
-    .foot-email {
-        padding-right: 30px !important;
-    }
+  .foot-email {
+    padding-right: 30px !important;
+  }
 }
 
 @media screen and (min-width: 992px) and (max-width: 1199px) {
-    .foot-position button {
-        right: 40px !important;
-    }
+  .foot-position button {
+    right: 40px !important;
+  }
 }
 
 @media screen and (max-width: 991px) {
-    .mq-hamburger {
-        display: none;
-    }
+  .mq-hamburger {
+    display: none;
+  }
 
-    .mq-bootstrap-btn {
-        border: none !important;
-        box-shadow: none !important;
-        background-color: #fff !important;
-    }
+  .mq-bootstrap-btn {
+    border: none !important;
+    box-shadow: none !important;
+    background-color: #fff !important;
+  }
 
-    .menu-list {
-        margin-left: 0px;
-    }
+  .menu-list {
+    margin-left: 0px;
+  }
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
-    .section1-text h1 {
-        font-size: 28px;
-    }
+  .section1-text h1 {
+    font-size: 28px;
+  }
 
-    .button-one {
-        font-size: 14px;
-    }
+  .button-one {
+    font-size: 14px;
+  }
 
-    .button-two {
-        font-size: 14px;
-    }
+  .button-two {
+    font-size: 14px;
+  }
 
-    .our-team {
-        font-size: 28px;
-    }
+  .our-team {
+    font-size: 28px;
+  }
 
-    .tab-menus a {
-        margin-right: 0px;
-        padding: 5px;
-    }
-    
-    .tab-menus {
-        justify-content: space-between;
-        padding: 10px 5px !important;
-    }
+  .tab-menus a {
+    margin-right: 0px;
+    padding: 5px;
+  }
 
-    .recent-works-tab a {
-        padding: 15px 15px !important;
-    }
+  .tab-menus {
+    justify-content: space-between;
+    padding: 10px 5px !important;
+  }
 
-    .manager-cards:hover .name-position ul {
-        width: 80% ;
-    }
+  .recent-works-tab a {
+    padding: 15px 15px !important;
+  }
 
-    .pricing-cards h1 span {
-        font-size: 28px;
-    }
+  .manager-cards:hover .name-position ul {
+    width: 80%;
+  }
 
-    .pricing-cards button {
-        padding: 10px 10px;
-    }
+  .pricing-cards h1 span {
+    font-size: 28px;
+  }
 
-    .pricing-cards ul {
-        padding-left: 0px;
-    }
+  .pricing-cards button {
+    padding: 10px 10px;
+  }
 
-    .name-position {
-        padding: 0px 15px !important;
-    }
-    
-    .manager-cards:hover .name-position {
-        padding-top: 20px !important;
-    }
+  .pricing-cards ul {
+    padding-left: 0px;
+  }
 
-    .testimonial-people .fa-quote-right {
-        font-size: 21px;
-    }
+  .name-position {
+    padding: 0px 15px !important;
+  }
 
-    #signature-name {
-        right: 5px;
-        bottom: 5px;
-        padding: 3px 5px !important;
-    }
+  .manager-cards:hover .name-position {
+    padding-top: 20px !important;
+  }
 
-    .section8-background h1 {
-        font-size: 28px;
-    }
+  .testimonial-people .fa-quote-right {
+    font-size: 21px;
+  }
 
-    .news-card h4 {
-        font-size: 20px;
-    }
+  #signature-name {
+    right: 5px;
+    bottom: 5px;
+    padding: 3px 5px !important;
+  }
 
-    .logo-image {
-        padding: 25px 25px !important;
-    }
+  .section8-background h1 {
+    font-size: 28px;
+  }
 
-    .contact {
-        padding: 15px 15px !important;
-    }
+  .news-card h4 {
+    font-size: 20px;
+  }
 
-    .business-form {
-        padding: 15px 15px !important;
-    }
-    
-    .services-section h4 {
-        font-size: 18px;
-    }
+  .logo-image {
+    padding: 25px 25px !important;
+  }
 
-    .foot-position button {
-        right: 80px !important;
-    }
+  .contact {
+    padding: 15px 15px !important;
+  }
+
+  .business-form {
+    padding: 15px 15px !important;
+  }
+
+  .services-section h4 {
+    font-size: 18px;
+  }
+
+  .foot-position button {
+    right: 80px !important;
+  }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-    .section1-background {
-        padding: 25px 0px;
-    }
+  .section1-background {
+    padding: 25px 0px;
+  }
 
-    .section2 {
-        padding: 25px 0px;
-    }
+  .section2 {
+    padding: 25px 0px;
+  }
 
-    .section3-background {
-        padding: 25px 0px;
-    }
+  .section3-background {
+    padding: 25px 0px;
+  }
 
-    .section4-background {
-        padding: 25px 0px;
-    }
+  .section4-background {
+    padding: 25px 0px;
+  }
 
-    .section5-background {
-        padding: 25px 0px;
-    }
+  .section5-background {
+    padding: 25px 0px;
+  }
 
-    .section6-background {
-        padding: 25px 0px;
-    }
+  .section6-background {
+    padding: 25px 0px;
+  }
 
-    .section7-background {
-        padding: 25px 0px;
-    }
+  .section7-background {
+    padding: 25px 0px;
+  }
 
-    .section8-background {
-        padding: 25px 0px;
-    }
+  .section8-background {
+    padding: 25px 0px;
+  }
 
-    .section9-background {
-        padding: 25px 0px;
-    }
+  .section9-background {
+    padding: 25px 0px;
+  }
 
-    .section10-background {
-        padding: 25px 0px;
-    }
+  .section10-background {
+    padding: 25px 0px;
+  }
 
-    .section11-background {
-        padding: 25px 0px;
-    }
+  .section11-background {
+    padding: 25px 0px;
+  }
 
-    .section12-background {
-        padding: 25px 0px;
-    }
-    
-    .section14-background {
-        padding: 25px 0px;
-    }
+  .section12-background {
+    padding: 25px 0px;
+  }
 
-    h1 {
-        font-size: 18px !important;
-    }
+  .section14-background {
+    padding: 25px 0px;
+  }
 
-    h4 {
-        font-size: 16px !important;
-    }
+  h1 {
+    font-size: 18px !important;
+  }
 
-    p {
-        font-size: 14px !important;
-    }
+  h4 {
+    font-size: 16px !important;
+  }
 
-    a {
-        font-size: 14px !important;
-    }
+  p {
+    font-size: 14px !important;
+  }
 
-    button {
-        font-size: 14px !important;
-    }
+  a {
+    font-size: 14px !important;
+  }
 
-    .buttons {
-        width: 75% !important;
-    }
+  button {
+    font-size: 14px !important;
+  }
 
-    .button-two i {
+  .buttons {
+    width: 80% !important;
+  }
+
+  /* .button-two i {
         margin-top: 45px;
-    }
+    } */
 
-    .our-story {
-        margin-top: 10px;
-    }
+  .our-story {
+    margin-top: 10px;
+  }
 
-    .tab-menus {
-        justify-content: center;
-    }
+  .tab-menus {
+    justify-content: center;
+  }
 
-    .tab-menus a {
-        margin-right: 0px !important;
-    }
+  .tab-menus a {
+    margin-right: 0px !important;
+  }
 
-    .tab-menus li {
-        width: 100%;
-        text-align: center;
-        margin: 5px 5px;
-    }
+  .tab-menus li {
+    width: 100%;
+    text-align: center;
+    margin: 5px 5px;
+  }
 
-    .pricing-cards {
-        margin: 10px auto !important;
-    }
+  .pricing-cards {
+    margin: 10px auto !important;
+  }
 
-    .pricing-cards .card-body {
-        padding: 15px 10px !important;
-    }
+  .pricing-cards .card-body {
+    padding: 15px 10px !important;
+  }
 
-    .name-position {
-        padding: 10px 10px !important;
-    }
+  .name-position {
+    padding: 10px 10px !important;
+  }
 
-    .manager-cards {
-        margin: 5px auto !important;
-    }
-    
-    .manager-cards:hover .name-position {
-        padding-top: 20px !important;
-    }
+  .manager-cards {
+    margin: 5px auto !important;
+  }
 
-    .manager-cards:hover .name-position ul {
-        width: 60%;
-    }
+  .manager-cards:hover .name-position {
+    padding-top: 20px !important;
+  }
 
-    .testimonial-people {
-        margin: 5px auto !important;
-    }
+  .manager-cards:hover .name-position ul {
+    width: 60%;
+  }
 
-    .section9-background .carousel-indicators {
-        bottom: -35px !important;
-    }
+  .testimonial-people {
+    margin: 5px auto !important;
+  }
 
-    .logo-image {
-        margin: 10px 5px;
-    }
+  .section9-background .carousel-indicators {
+    bottom: -35px !important;
+  }
 
-    .foot-email {
-        width: 100%;
-    }
+  .logo-image {
+    margin: 10px 5px;
+  }
 
-    .foot-position button {
-        right: 10px;
-    }
+  .foot-email {
+    width: 100%;
+  }
 
-    .mq-phone-sm {
-        margin-bottom: 25px;
-    }
+  .foot-position button {
+    right: 10px;
+  }
 
+  .mq-phone-sm {
+    margin-bottom: 25px;
+  }
 }
 
 @media screen and (max-width: 575px) {
-    .business-form {
+  /* .business-form {
         margin: 15px auto;
-    }
+    } */
+}
+
+@media screen and (min-width: 407px) and (max-width: 467px) {
+  .button-one {
+    padding: 15px 15px;
+    letter-spacing: 1px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 406px) {
+  .buttons a {
+    font-size: 12px !important;
+  }
+  .button-one {
+    padding: 15px 10px;
+    letter-spacing: 1px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 357px) {
+  .button-one {
+    margin-right: 10px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 357px) {
+  .button-two i {
+    padding: 5px 5px;
+  }
 }
 /********** Media Query **********/
